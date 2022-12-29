@@ -1,0 +1,9 @@
+{
+	"name": "Axizra",
+	"short_name": "Axizra",
+	"theme_color": "#2e8bc0",
+	"background_color": "#000000",
+	"display": "standalone",
+	"Scope": "https://63aadd6223113.site123.me/",
+	"start_url": "https://63aadd6223113.site123.me/",
+	"icons": [{"src":"https://cdn-cms-s.f-static.net/ready_uploads/pwaScreenLogo/pwaImage.png?width=192&height=192&resizeType=pwaIcon&w=&orderScreen=&websiteID=7272781&tranW=&v=css_r170_38108336","sizes":"192x192","type":"image/png"},{"src":"https://cdn-cms-s.f-static.net/ready_uploads/pwaScreenLogo/pwaImage.png?width=512&height=512&resizeType=pwaIcon&w=&orderScreen=&websiteID=7272781&tranW=&v=css_r170_38108336","sizes":"512x512","type":"image/png"}]}
